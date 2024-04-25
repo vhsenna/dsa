@@ -1,6 +1,10 @@
-Given the example of an array numbers = [2, 7, 11, 15] and target = 9.
+# Two Sum II - Input Array Is Sorted
 
-The most straightforward way to solve this problem is to sum all possible combinations within the array until finding the result.
+The problem provides an indexed array of integers, 'numbers', which is already sorted in non-decreasing order. The task is to find two numbers within this array that add up to a specific target number.
+
+Ultimately, the solution should return the indices of these two numbers in an array.
+
+Given the example of an array numbers = [2, 7, 11, 15] and target = 9, the most straightforward way to solve this problem is to sum all possible combinations within the array until finding the result.
 
 For example, summing 2+7, 2+11, 2+15, 7+11, 7+15, 11+15, etc.
 
