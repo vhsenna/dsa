@@ -4,7 +4,7 @@ A sentence is considered a palindrome if, after converting all characters to low
 
 Alphanumeric characters include letters and numbers.
 
-Return `True` if the sentence is a palindrome; otherwise, return `False`.
+Return `true` if the sentence is a palindrome; otherwise, return `false`.
 
 ---
 
@@ -22,6 +22,6 @@ The second pointer (`p2`) will start at the end of the sentence (last index).
 Iterate through the sentence using a loop until reaching the middle point.
 
 - If `p1` is equal to `p2`, increment `p1` and decrement `p2`.
-- If at any point `p1` is not equal to `p2`, exit the loop and return `False`.
+- If at any point `p1` is not equal to `p2`, exit the loop and return `false`.
 
-The loop will terminate once the pointers meet at the middle of the sentence. If the loop completes without finding any mismatches, return `True`.
+The loop will terminate once the pointers meet at the middle of the sentence. If the loop completes without finding any mismatches, return `true`.

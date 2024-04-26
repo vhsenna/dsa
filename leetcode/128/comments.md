@@ -2,9 +2,9 @@
 
 Given a list of integers, the goal is to return the size of the largest possible set of consecutive numbers.
 
-For example, in the list [100, 4, 200, 1, 3, 2], the expected return value is 9.
+For example, in the list `[100, 4, 200, 1, 3, 2]`, the expected return value is 9.
 
-Similarly, in the list [0, 3, 7, 2, 5, 8, 4, 6, 0, 1], the expected return value is 4.
+Similarly, in the list `[0, 3, 7, 2, 5, 8, 4, 6, 0, 1]`, the expected return value is 4.
 
 The solution must be implemented with a time complexity of O(n).
 
