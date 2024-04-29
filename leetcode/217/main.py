@@ -2,13 +2,7 @@ from typing import List
 
 
 def containsDuplicate(nums: List[int]) -> bool:
-    unique = set()
-
-    for num in nums:
-        if num in unique:
-            return True
-        unique.add(num)
-    return False
+    return len(set(nums)) != len(nums)
 
 
 print(containsDuplicate([1, 2, 1, 3, 1]))
