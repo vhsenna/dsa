@@ -5,7 +5,7 @@ def reverse(x: int) -> int:
         return 0
 
     if x < 0:
-        return -reverse
+        return - reverse
     return reverse
 
 

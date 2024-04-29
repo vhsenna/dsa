@@ -5,14 +5,14 @@ def search(nums: List[int], target: int) -> int:
     p1, p2 = 0, len(nums) - 1
 
     while p1 <= p2:
-        m = (p1 + p2) // 2
+        middle = (p1 + p2) // 2
 
-        if target < nums[m]:
-            p2 = m - 1
-        elif target > nums[m]:
-            p1 = m + 1
+        if target < nums[middle]:
+            p2 = middle - 1
+        elif target > nums[middle]:
+            p1 = middle + 1
         else:
-            return m
+            return middle
     return -1
 
 
