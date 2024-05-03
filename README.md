@@ -1,4 +1,4 @@
 # Data Structures and Algorithms
 
-- [Cracking the Coding Interview, 6th Edition](https://github.com/vhsenna/dsa/tree/main/ctci)
+- [Cracking the Coding Interview](https://github.com/vhsenna/dsa/tree/main/ctci)
 - [LeetCode](https://github.com/vhsenna/dsa/tree/main/leetcode)
