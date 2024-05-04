@@ -6,6 +6,7 @@
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | `Math` | Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | `Math` | Easy |
 | 15 | [3Sum](https://leetcode.com/problems/3sum) | `Array` `Two Pointers` `Sorting` | Medium |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | `String` | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary) | `Math` `String` `Bit Manipulation` `Simulation` | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | `Array` `Dynamic Programming` | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | `Two Pointers` `String` | Easy |
@@ -15,5 +16,6 @@
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | `Hash Table` `String` `Sorting` | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | `Two Pointers` `String` | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search) | `Array` `Binary Search` | Easy |
+| 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array) | `Array` | Easy |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | `Array` | Easy |
-|  |  |  |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | `Array` `Prefix Sum` | Easy |
