@@ -1,7 +1,4 @@
-from typing import List
-
-
-def searchInsert(nums: List[int], target: int) -> int:
+def searchInsert(nums: list[int], target: int) -> int:
     if not nums:
         return 0
 

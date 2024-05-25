@@ -1,7 +1,4 @@
-from typing import List
-
-
-def runningSum(nums: List[int]) -> List[int]:
+def runningSum(nums: list[int]) -> list[int]:
     for i in range(1, len(nums)):
         nums[i] = nums[i - 1] + nums[i]
 

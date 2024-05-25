@@ -1,7 +1,4 @@
-from typing import List
-
-
-def reverseString(s: List[str]) -> None:
+def reverseString(s: list[str]) -> None:
     p1, p2 = 0, len(s) - 1
 
     while p1 < p2:

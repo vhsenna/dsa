@@ -1,7 +1,4 @@
-from typing import List
-
-
-def maxProfit(prices: List[int]) -> int:
+def maxProfit(prices: list[int]) -> int:
     if len(prices) == 0:
         return 0
 

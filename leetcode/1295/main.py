@@ -1,7 +1,4 @@
-from typing import List
-
-
-def findNumbers(nums: List[int]) -> int:
+def findNumbers(nums: list[int]) -> int:
     count = 0
 
     for num in nums:

@@ -1,7 +1,4 @@
-from typing import List
-
-
-def search(nums: List[int], target: int) -> int:
+def search(nums: list[int], target: int) -> int:
     p1, p2 = 0, len(nums) - 1
 
     while p1 <= p2:

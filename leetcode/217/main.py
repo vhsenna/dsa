@@ -1,7 +1,4 @@
-from typing import List
-
-
-def containsDuplicate(nums: List[int]) -> bool:
+def containsDuplicate(nums: list[int]) -> bool:
     return len(set(nums)) != len(nums)
 
 

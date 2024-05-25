@@ -1,7 +1,4 @@
-from typing import List
-
-
-def validMountainArray(arr: List[int]) -> bool:
+def validMountainArray(arr: list[int]) -> bool:
     p1 = 0
     p2 = -1
 
