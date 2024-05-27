@@ -6,6 +6,7 @@
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | `Math` | Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | `Math` | Easy |
 | 15 | [3Sum](https://leetcode.com/problems/3sum) | `Array` `Two Pointers` `Sorting` | Medium |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | `Array` `Binary Search` | Easy |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | `String` | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary) | `Math` `String` `Bit Manipulation` `Simulation` | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | `Array` `Dynamic Programming` | Easy |
