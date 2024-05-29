@@ -1,4 +1,4 @@
-def twoSum(nums: list[int], target: int) -> list[int]:
+def twoSum(nums: list[int], target: int) -> list[int] | None:
     hasher = {}
 
     for index in range(len(nums)):
@@ -6,6 +6,7 @@ def twoSum(nums: list[int], target: int) -> list[int]:
         if complement in hasher:
             return [hasher[complement], index]
         hasher[nums[index]] = index
+    return
 
 
 print(twoSum([2, 7, 11, 15], 9))
