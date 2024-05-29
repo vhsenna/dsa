@@ -1,13 +1,15 @@
 def maxProfit(prices: list[int]) -> int:
-    if len(prices) == 0:
-        return 0
-
+    p1, p2 = 0, 1
     max_profit = 0
-    min_value = prices[0]
 
-    for num in range(len(prices)):
-        max_profit = max(max_profit, prices[num] - min_value)
-        min_value = min(min_value, prices[num])
+    while p2 < len(prices):
+        if prices[p1] < prices[p2]:
+            profit = prices[p2] - prices[p1]
+            max_profit = max(max_profit, profit)
+        else:
+            p1 = p2
+        p2 += 1
+
     return max_profit
 
 
