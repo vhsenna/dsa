@@ -6,6 +6,8 @@
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | `Math` | Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | `Math` | Easy |
 | 15 | [3Sum](https://leetcode.com/problems/3sum) | `Array` `Two Pointers` `Sorting` | Medium |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | `Array` `Two Pointers` | Easy |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/description) | `Array` `Two Pointers` | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | `Array` `Binary Search` | Easy |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | `String` | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary) | `Math` `String` `Bit Manipulation` `Simulation` | Easy |
